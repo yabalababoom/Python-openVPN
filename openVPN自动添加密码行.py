@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2021/7/15 16:21
-# @Author  : YH
+# @Author  : 
 
 """将指定目录下的ovpn文件的最后添加一行 auth-user-pass pass.txt,实现openvpn的免输入登录
 """
